@@ -82,7 +82,7 @@ export async function responseProvider(request) {
         mboxes: [
           {
             index: 0,
-            name: 'server-side-mike-ab',
+            name: 'test-mbox',
             parameters: {
               foo: 'bar'
             }
